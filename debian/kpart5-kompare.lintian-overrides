@@ -1,0 +1,4 @@
+# private library
+kpart5-kompare: package-name-doesnt-match-sonames libkomparedialogpages5
+# private library
+kpart5-kompare: no-symbols-control-file

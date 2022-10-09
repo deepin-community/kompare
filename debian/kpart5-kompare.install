@@ -1,0 +1,9 @@
+usr/lib/*/libkomparedialogpages.so.5
+usr/lib/*/qt5/plugins/kf5/parts/komparenavtreepart.so
+usr/lib/*/qt5/plugins/kf5/parts/komparepart.so
+usr/share/icons/hicolor/*/apps/kompare.png
+usr/share/icons/hicolor/*/apps/kompare.svgz
+usr/share/kservices5/komparenavtreepart.desktop
+usr/share/kservices5/komparepart.desktop
+usr/share/kservicetypes5/komparenavigationpart.desktop
+usr/share/kservicetypes5/kompareviewpart.desktop
